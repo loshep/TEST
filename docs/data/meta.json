@@ -1,6 +1,6 @@
 {
- "lastUpdate": "2026-10-10T02:24:23.400Z",
- "added": 3,
+ "lastUpdate": "2026-10-10T02:29:35.422Z",
+ "added": 0,
  "total": 221,
  "sources": [
   {
@@ -49,8 +49,8 @@
    "id": "elperuano-sst",
    "name": "El Peruano",
    "ok": true,
-   "found": 68,
-   "added": 1
+   "found": 66,
+   "added": 0
   },
   {
    "id": "conasst",
@@ -63,8 +63,8 @@
    "id": "prensa-laboral",
    "name": "Prensa (Google Noticias)",
    "ok": true,
-   "found": 53,
-   "added": 2
+   "found": 52,
+   "added": 0
   }
  ]
 }
