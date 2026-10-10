@@ -68,7 +68,12 @@ function parseFeed(xml, src) {
     const origin = strip(tag(b, 'source'));
     if (!title || !/^https?:\/\//.test(link) || isNaN(pub)) continue;
     if (origin && title.endsWith(` - ${origin}`)) title = title.slice(0, -(origin.length + 3));
-    out.push({ title, link, date: pub.toISOString(), text, origin });
+    // Google Noticias repite el título (y el medio) como descripción: se descarta.
+    let body = text;
+    if (origin) body = body.replace(new RegExp(`\\s*${origin.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*$`), '');
+    if (body.startsWith(title)) body = body.slice(title.length).trim();
+    if (body === title) body = '';
+    out.push({ title, link, date: pub.toISOString(), text: body, origin });
   }
   return out;
 }
