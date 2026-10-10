@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Observatorio Laboral Perú</title>
+<meta name="description" content="Legislación laboral, seguridad y salud en el trabajo y noticias de actualidad en el Perú, actualizado diariamente.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1>Observatorio Laboral Perú</h1>
+    <p class="lead">Legislación laboral, seguridad y salud en el trabajo y noticias de actualidad. Se actualiza todos los días a las 6:00 a. m. (hora de Lima).</p>
+    <form class="filters" id="filters" role="search" onsubmit="return false">
+      <label class="grow"><span>Buscar</span><input type="search" id="q" placeholder="Palabra clave: SST, CTS, teletrabajo…"></label>
+      <label><span>Categoría</span>
+        <select id="cat"><option value="">Todas</option><option value="legislacion">Legislación laboral</option><option value="sst">Seguridad y salud (SST)</option><option value="noticias">Noticias</option></select></label>
+      <label><span>Fuente</span><select id="src"><option value="">Todas</option></select></label>
+      <label><span>Desde</span><input type="date" id="from"></label>
+      <label><span>Hasta</span><input type="date" id="to"></label>
+      <button type="button" id="reset">Limpiar</button>
+    </form>
+    <nav class="jump" aria-label="Secciones">
+      <a href="#legislacion">Legislación laboral</a><a href="#sst">SST</a><a href="#noticias">Noticias</a><a href="#referencia">Normas de referencia</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <p id="status" class="muted" aria-live="polite">Cargando…</p>
+  <section id="legislacion"><h2>Legislación laboral</h2><div class="list" id="list-legislacion"></div><button class="more" data-for="legislacion" hidden>Ver más</button></section>
+  <section id="sst"><h2>Seguridad y salud en el trabajo</h2><div class="list" id="list-sst"></div><button class="more" data-for="sst" hidden>Ver más</button></section>
+  <section id="noticias"><h2>Noticias de actualidad</h2><div class="list" id="list-noticias"></div><button class="more" data-for="noticias" hidden>Ver más</button></section>
+  <section id="referencia">
+    <h2>Normas de referencia</h2>
+    <p class="muted">Selección de normas base. El estado indica la situación conocida al momento de la última revisión editorial; confirme siempre en la fuente oficial.</p>
+    <div class="tablewrap"><table id="laws"><thead><tr><th>Norma</th><th>Tipo</th><th>Publicación</th><th>Estado</th><th>Materia</th></tr></thead><tbody></tbody></table></div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p><strong>Última actualización:</strong> <span id="last">—</span></p>
+    <p class="muted">Contenido informativo; no constituye asesoría legal. Los resúmenes son automáticos y pueden contener errores: verifique siempre la norma o comunicado en la fuente original. Fuentes: gob.pe (MTPE, SUNAFIL, SUNAT), diario oficial El Peruano y prensa, vía Google Noticias cuando no existe canal directo. Los ítems con la etiqueta «fuente primaria» provienen de portales oficiales.</p>
+  </div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
