@@ -1,7 +1,7 @@
 {
- "lastUpdate": "2026-10-10T02:39:39.359Z",
- "added": 0,
- "total": 221,
+ "lastUpdate": "2026-10-10T11:08:08.615Z",
+ "added": 2,
+ "total": 223,
  "sources": [
   {
    "id": "mtpe-noticias",
@@ -43,13 +43,13 @@
    "name": "El Peruano",
    "ok": true,
    "found": 100,
-   "added": 0
+   "added": 1
   },
   {
    "id": "elperuano-sst",
    "name": "El Peruano",
    "ok": true,
-   "found": 68,
+   "found": 63,
    "added": 0
   },
   {
@@ -63,8 +63,8 @@
    "id": "prensa-laboral",
    "name": "Prensa (Google Noticias)",
    "ok": true,
-   "found": 53,
-   "added": 0
+   "found": 52,
+   "added": 1
   }
  ]
 }
