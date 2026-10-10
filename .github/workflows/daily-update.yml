@@ -38,6 +38,8 @@ jobs:
           git diff --cached --quiet || git commit -m "Actualización automática $(TZ=America/Lima date +'%Y-%m-%d %H:%M')"
           git pull --rebase origin main
           git push
+      - name: Evitar caché del navegador (versión por commit)
+        run: sed -i "s/?v=dev/?v=${GITHUB_SHA::8}-${GITHUB_RUN_NUMBER}/g" docs/index.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
