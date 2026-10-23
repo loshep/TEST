@@ -1,5 +1,101 @@
 [
  {
+  "id": "0b2fa4ca2ff25fbb",
+  "title": "Visita del papa León XIV: Gobierno declara días no laborables y fija reglas para recuperar horas de trabajo",
+  "date": "2026-10-23T14:16:00.000Z",
+  "category": "noticias",
+  "source": "El Peruano",
+  "sourceId": "elperuano-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb01INjdXMmFPUHVqSWZpdXJROUVvanJERHhIeXZNbTMyVzlkUDBESXFmZlNObTUwRWU2Q2REcFJaUllyQjhFMjRYRUFEZXNtT1FHUWhScWRiT1Y1SmhIazJFa2JyX252c25sMUpUbHZKdlVEeVN1R2hHTnFfNWZQV2tPOEdJOVA0SXByUWFEN256Z2NOY1lOSzNRVXh3cTJOVmY2d3EwR1BiSnlnN1NKZ000akpWQnNKcXlxWERmZHBUWFg3aEVCVVZYU184TWxFVUpZSkZfQTEtclpyQnRB?oc=5",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
+  "id": "b53c16474d0b4f93",
+  "title": "CTS de noviembre: ¿cómo influye el aumento de la RMV en el cálculo de este beneficio laboral?",
+  "date": "2026-10-23T14:00:00.000Z",
+  "category": "noticias",
+  "source": "El Peruano",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2tQOUtCT2VCb0ZyZW54UTlTQzctR0dmcGlQaVMxdC0xY2YzSXk2UXNrQ1BWcjZ1ZXlBQVFlNE0tX2laNFJybDdJcENIWG0zWm5ibzEwZHFpTGFfNmhqY3oxQ3pwZU9oR3VaZkNPV05vWTlBU2Z6NGJuR093Z0Raa2s0SFJsZ3lvQXZJdkw4Y0xqMFRNaUJVRlB3SDA0VkdoRjhRVlVZSEVFUmM5UV9NS0x0TmdfNG9yMlNNbGEyOVhWZG9Jay1aQURR?oc=5",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
+  "id": "4f141b048acb4cc3",
+  "title": "Trabajadoras del hogar: empleadores deben brindar alimentos sin descontarlos de su remuneración",
+  "date": "2026-10-23T13:52:00.000Z",
+  "category": "noticias",
+  "source": "El Peruano",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTklKekhIVnBDb1dqZFlwdTJUUUlkUG5sVll2MEUxZFVxQjZyVkVnNW1Ba0YtMmpTY2JWNTNUYUlRZTR4ai1SclpEQVFjVV9sTHp2Y05IRERtbVFnRHZGb0VIYVF2cTg2R2p5Zzl0bGMyY1VsVWt2am5SSGF4VURSSDBLcGlDZUw3RWpnZ3BHNGw0blNBb0pyVXFxQVJ4c0NYcllYYnhoUC11ZXI4R1NPbEE0ajEyekpaSldQSkd6dHBycXo2Z0ZTSkNJd1BLNDQ?oc=5",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
+  "id": "6c11c18d660dced8",
+  "title": "Sunafil: Empleadores tienen la obligación de dar alimentos a trabajadoras del hogar durante el tiempo que realizan sus actividades",
+  "date": "2026-10-23T13:00:00.000Z",
+  "category": "noticias",
+  "source": "SUNAFIL",
+  "sourceId": "sunafil-noticias",
+  "primary": true,
+  "summary": "La Superintendencia Nacional de Fiscalización Laboral (Sunafil) recordó que los empleadores tienen la obligación de dar alimentos a la persona trabajadora del hogar durante el tiempo que realiza sus actividades en la vivienda o casa-habitación.",
+  "url": "https://www.gob.pe/institucion/sunafil/noticias/1461052-sunafil-empleadores-tienen-la-obligacion-de-dar-alimentos-a-trabajadoras-del-hogar-durante-el-tiempo-que-realizan-sus-actividades",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
+  "id": "c01ff0ab45563288",
+  "title": "Gobierno establece días no laborables compensables por la visita del Papa León XIV al Perú",
+  "date": "2026-10-23T12:28:00.000Z",
+  "category": "noticias",
+  "source": "MTPE",
+  "sourceId": "mtpe-noticias",
+  "primary": true,
+  "summary": "- El MTPE precisa que las horas dejadas de trabajar deberán recuperarse y que las entidades públicas deben garantizar los servicios indispensables para la población.",
+  "url": "https://www.gob.pe/institucion/mtpe/noticias/1461346-gobierno-establece-dias-no-laborables-compensables-por-la-visita-del-papa-leon-xiv-al-peru",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
+  "id": "bb619b856bc2010e",
+  "title": "CGTP rechaza suspensión perfecta de labores ante posible impacto de El Niño y exige garantías laborales",
+  "date": "2026-10-23T02:11:15.000Z",
+  "category": "noticias",
+  "source": "El Comercio Perú",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUU8wX0h2SDd6d2pnNkJNS1VVcUIydkR2Yk5saFdCNHR6YzYwR1lqOXlzclVSbWgwdW5JOW1xUDZ1Z092bHBKbmFXVG81YUptN1dsaHlNOGxKX0ZFNXg2Vjcyeks1bV8tQ3NyTXlQWDFOWG15Q0MxT3FYbXBaQUQ2RVVsWFp2X0tDSVBhOEd4d19talVBdU5ORjJMUGZzZ3JCUTBCYU9RTENMb1lxVzRqVlczSWxLblIwYi1SdXZTalp0LVhBY0hhNUk4akRVSHNsWDBPQkxfMEhidEUzbzZEM2RiZHdIRGZwYzBaMkh5NWRzNnhFb213MnNsMy1EQ0VjWC1VbDMxbGNaVWlDbGhN0gGjAkFVX3lxTFA0SjNMQ2JRR0JsMW1zeEk1NmI4d25mSFNqLWpCRDV0d1llc1E5WXhYd1pNYzY3dFN0eWdIMHpQSTdqTHZ6ampPQ2I5eGp0OUpzcHYwZVZYUmdzY2gtdy1wZWNOTnNOa3FMak9fcHctY2JJZkg2bldHOUxvMGxLejZxTE9xbi1teFJ0S29oRGFDTGxmNThiQmNLTWk3MENBMHU4Rmgzd1JCN2RQS21DNjRxYTN5TjFUeWQzMU9uRDB2dVBaVDg0WW9nT2huTFduTUVDSEFWVndxamZILWVveVg1UTJfVWMzYl80QnFabDBGYkFpQU1TQ0tMMy10RmpiQ2l1SU5RSHJESml6QjAxMVJiVHVyaC1MZHA0Zk52STZxNy1Cdw?oc=5",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
+  "id": "8f7751481a7ad8d5",
+  "title": "Ministro Juan Sheput: “Gobierno impulsará capacitación en construcción civil para que más trabajadores accedan a empleos en nuevas obras”",
+  "date": "2026-10-22T21:41:00.000Z",
+  "category": "noticias",
+  "source": "MTPE",
+  "sourceId": "mtpe-noticias",
+  "primary": true,
+  "summary": "- En el marco del Día de los Trabajadores de Construcción Civil, el titular del MTPE destacó que la capacitación será clave para aprovechar las oportunidades laborales que generarán los nuevos proyectos de infraestructura y los cambios tecnológicos.",
+  "url": "https://www.gob.pe/institucion/mtpe/noticias/1461166-ministro-juan-sheput-gobierno-impulsara-capacitacion-en-construccion-civil-para-que-mas-trabajadores-accedan-a-empleos-en-nuevas-obras",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
+  "id": "5c3dcc9c60d286d0",
+  "title": "Bono de S/300 para trabajadores públicos de Educación también se pagaría en 2026",
+  "date": "2026-10-22T19:17:00.000Z",
+  "category": "noticias",
+  "source": "Infobae",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNSRU9IUUcwQzB6SGlxSVFLcTNEdXRURU1mWTJ6VHpKNFlISWlMUThDUkV1ZnZKWE5sZ2gwYnFpd2FTZEVpVGhRcGs4ZENmZWxWZHhVc2hrMElDODMxWDNFZURmLXhDZ3hrdndYX3RHVFRKZGw5TXdZajlXbmN4T0M4TGFxVldSREhKR214akVWSjJ0Z3lzYkE1dVR0YlhVYlpROUNzdkpFWndfSzNSNjRSaW1fRC1lSDBFVNIB1wFBVV95cUxOcHliS2JVd2x2a0xoMmtvQjB5LUtPQUdxbl9aQTlRSXZJbDBSa25ORF9LSmx2bUlzamNTTzc3YlNfSjZUX3pXZEg3eXhLaVlycVhKVzdIaTFQbWhuamQtYnI3R1JGRHR2UkROS1lVaU1iYVYtVS1SLU9iZTVOQVhmM0Jfak1WQnFkSWNSaWRfdDZDejIwUjJlTm90cXRFdE9RSWdheGhPN3FOMW5qLVV3ek02SzZXRE1Bakp3RU1TNU8xYW8wVHhHd0k0UC1HREVsM3J0bEFEYw?oc=5",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
   "id": "20971601a848cf4e",
   "title": "Sunafil: ¿presentar documentos basta para cumplir con la inspección laboral? Conoce el criterio del TFL",
   "date": "2026-10-22T14:35:00.000Z",
@@ -58,6 +154,36 @@
   "summary": "Consulte la fuente original para el detalle.",
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzBGSWJySTdERE14VjZxZVdGZFI2ZUVINFV5bW8wSFhldUl3Q013a1JpSEdEekljaVU5MDRXaGpDRnpCc040RjZWOUdlQ21EREtjM0p5bVBpZGxWaDJ4MVhTQTFBeUw2Rlpsb09JZVljNElvRkJtSkRhSVF2WW5CRUFVSjZ5Ymo5WENvQWJROWRKSjNsSXh1ZzFsM213dzFoeWhEa2tUOHRkaVFucjRhLXlUYmZFUkk?oc=5",
   "firstSeen": "2026-10-22T15:46:51.871Z"
+ },
+ {
+  "id": "e937a5d0b77464bf",
+  "title": "000017-2026-MTPE-3",
+  "date": "2026-10-22T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "MTPE",
+  "sourceId": "mtpe-normas",
+  "primary": true,
+  "summary": "Designar a la señora NATALIA TACO LÓPEZ como Jefa de la Unidad Técnico Operativa de los Servicios para la Empleabilidad del Programa Nacional de Empleo “Jóvenes Productivos”.",
+  "url": "https://www.gob.pe/institucion/mtpe/normas-legales/8750796-000017-2026-mtpe-3",
+  "firstSeen": "2026-10-23T15:37:50.845Z",
+  "normType": "Norma",
+  "normNumber": "0017-2026-MTPE-3",
+  "status": "Vigente al publicarse"
+ },
+ {
+  "id": "f05be22223ce9f30",
+  "title": "019-2026-TR",
+  "date": "2026-10-22T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "MTPE",
+  "sourceId": "mtpe-normas",
+  "primary": true,
+  "summary": "Se autoriza la transferencia financiera del Programa de Empleo Temporal “Llamkasun Perú” a favor de seiscientos noventa y tres (693) organismos ejecutores del sector público, con los cuales se han suscrito igual número de convenios con el objeto de financiar la ejecución de actividades de…",
+  "url": "https://www.gob.pe/institucion/mtpe/normas-legales/8750684-019-2026-tr",
+  "firstSeen": "2026-10-23T15:37:50.845Z",
+  "normType": "Norma",
+  "normNumber": "019-2026-TR",
+  "status": "Vigente al publicarse"
  },
  {
   "id": "adfc6d4e1a86e0e8",
@@ -192,6 +318,21 @@
   "firstSeen": "2026-10-20T15:32:54.659Z"
  },
  {
+  "id": "9cf9245e844e72ae",
+  "title": "390-2026-SUNAFIL-GG-OAD-UCEC",
+  "date": "2026-10-20T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "SUNAFIL",
+  "sourceId": "sunafil-normas",
+  "primary": true,
+  "summary": "Declarar IMPROCEDENTE la solicitud de declaración de la prescripción de la exigibilidad de la multa formulada por CONSORCIO ABRA LAJAS, con RUC N.° 20606486864, respecto de la multa administrativa impuesta por la Resolución de Subintendencia N.° 25-2024-SUNAFIL/IRE-AMZ/SISA, dictada en el…",
+  "url": "https://www.gob.pe/institucion/sunafil/normas-legales/8748623-390-2026-sunafil-gg-oad-ucec",
+  "firstSeen": "2026-10-23T15:37:50.845Z",
+  "normType": "Norma",
+  "normNumber": "390-2026-SUNAFIL-GG-OAD-UCEC",
+  "status": "Vigente al publicarse"
+ },
+ {
   "id": "2740087476fa9eb0",
   "title": "SUNAFIL: Solo entre el 17 % y 18 % de trabajadores en Puno cuenta con empleo formal",
   "date": "2026-10-20T01:48:00.000Z",
@@ -276,6 +417,18 @@
   "firstSeen": "2026-10-19T17:19:29.689Z"
  },
  {
+  "id": "a9379de7f31882f0",
+  "title": "CTS 2026 en menos de un mes: Segundo depósito se desembolsa hasta el 16 de noviembre",
+  "date": "2026-10-19T12:53:00.000Z",
+  "category": "noticias",
+  "source": "Infobae",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWJ1bHVvWnZSVjByM0dNQ0hXbldBd3hPNk9TWmdpcnFZMHM5MG1FVU92SWlMM1lJTHYtV21yZkV3Ung0OXdkbzZTNDk0S1BpZmI0RTRZRDRmUVNVWlZxYkh0Z2t2UG44RGdadmRXTXpWSmVtMUdHTUFWcWJfRUg1dkFXTnN6cG5xTDFiQXZfcHlHbGtfWWdKaUlGSUgtR3FjRGlTeWJxQlEtSlZ3SGlRY9IBywFBVV95cUxPWHdZcktRbkRqdUZnakpQY3ZiZXY5c1BTaElkT01vUmRHbmo2NzRmWXpCb2p1VjBBMkhJODIwOHVqTWc4Y2NzTzlFZjRCdnhIdUVzVVhMWWZQVWZZdXl2cTlHNDdiSi1mWmxEZ0tuVEs2amtROWRmcERjNmR1NGpsTVYxTVlzdnpVeEFNeHJVMHVfekZqQ01qUFdrak8zN295M1FtR1pOZk9FdG1mTjhPdG5OZjBlLXZ6ZjNhWnZBRjVZNjUtbXEtTDRCTQ?oc=5",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
   "id": "c2f38255a6ee93cc",
   "title": "Aumento salarial para trabajadores de Sunarp con nueva escala ya aplica: ¿A quiénes?",
   "date": "2026-10-19T12:01:56.000Z",
@@ -348,6 +501,66 @@
   "status": "Vigente al publicarse"
  },
  {
+  "id": "ec4bec8b8e2faf8a",
+  "title": "234-2026-SUNAFIL",
+  "date": "2026-10-19T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "SUNAFIL",
+  "sourceId": "sunafil-normas",
+  "primary": true,
+  "summary": "Encargar, a partir del 20 al 24 de octubre de 2026, al servidor RENÁN PAVEL FLORES BUENDÍA, en el puesto de Director de la Dirección de Inteligencia Inspectiva de la Superintendencia Nacional de Fiscalización Laboral – SUNAFIL, en adición a sus funciones.",
+  "url": "https://www.gob.pe/institucion/sunafil/normas-legales/8748612-234-2026-sunafil",
+  "firstSeen": "2026-10-23T15:37:50.845Z",
+  "normType": "Norma",
+  "normNumber": "234-2026-SUNAFIL",
+  "status": "Vigente al publicarse"
+ },
+ {
+  "id": "77131df0c3b281c1",
+  "title": "233-2026-SUNAFIL",
+  "date": "2026-10-19T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "SUNAFIL",
+  "sourceId": "sunafil-normas",
+  "primary": true,
+  "summary": "Autorizar el viaje por comisión de servicios al exterior del señor JORGE EDUARDO CASTILLO GUZMÁN, Director de la Dirección de Inteligencia Inspectiva de la Superintendencia Nacional de Fiscalización Laboral – SUNAFIL, a la ciudad de Panamá, República de Panamá, del 20 al 23 de octubre de 2026, a…",
+  "url": "https://www.gob.pe/institucion/sunafil/normas-legales/8748602-233-2026-sunafil",
+  "firstSeen": "2026-10-23T15:37:50.845Z",
+  "normType": "Norma",
+  "normNumber": "233-2026-SUNAFIL",
+  "status": "Vigente al publicarse"
+ },
+ {
+  "id": "dca523dec55e3895",
+  "title": "009-2026-SUNAFIL/PCD",
+  "date": "2026-10-19T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "SUNAFIL",
+  "sourceId": "sunafil-normas",
+  "primary": true,
+  "summary": "Formalizar la aprobación de la POLÍTICA INSTITUCIONAL DEL USO SEGURO, RESPONSABLE Y ÉTICO DE LOS SISTEMAS BASADOS EN INTELIGENCIA ARTIFICIAL (IA) DE LA SUPERINTENDENCIA NACIONAL DE FISCALIZACIÓN LABORAL - SUNAFIL, que como Anexo forma parte integrante de la presente resolución.",
+  "url": "https://www.gob.pe/institucion/sunafil/normas-legales/8748663-009-2026-sunafil-pcd",
+  "firstSeen": "2026-10-23T15:37:50.845Z",
+  "normType": "Norma",
+  "normNumber": "009-2026-SUNAFIL/PCD",
+  "status": "Vigente al publicarse"
+ },
+ {
+  "id": "4bd9a9c89e47cda4",
+  "title": "387-2026-SUNAFIL-GG-OAD-UCEC",
+  "date": "2026-10-19T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "SUNAFIL",
+  "sourceId": "sunafil-normas",
+  "primary": true,
+  "summary": "Declarar FUNDADA la solicitud de declaración de la prescripción de la exigibilidad de la multa formulada por CONSORCIO VIAL LORETO, con RUC N.° 20608314165, respecto de la multa administrativa impuesta por la Resolución de Subintendencia N.° 156-2024-SUNAFIL/IRE-LOR/SISA, dictada en el Expediente…",
+  "url": "https://www.gob.pe/institucion/sunafil/normas-legales/8748584-387-2026-sunafil-gg-oad-ucec",
+  "firstSeen": "2026-10-23T15:37:50.845Z",
+  "normType": "Norma",
+  "normNumber": "387-2026-SUNAFIL-GG-OAD-UCEC",
+  "status": "Vigente al publicarse"
+ },
+ {
   "id": "d206c7c3700ad9b9",
   "title": "Sunafil detalla los jornales 2026 para trabajadores de construcción civil",
   "date": "2026-10-19T02:02:12.000Z",
@@ -370,6 +583,18 @@
   "summary": "Consulte la fuente original para el detalle.",
   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UT3U5OHZvWGZMQmR3aF8zUUlxTDRRZlh2R1dody1TS0ZOeTBvM202Y0pRMGNNT1FQQzA4UVE1SzZvckMyNjRhWThESGRObjV1ai1UZDkxZ3JZcE8yUnFIZHdUeDY1WTNrdDAtVXp4S3MxWGgxb0lpTA?oc=5",
   "firstSeen": "2026-10-19T17:19:29.689Z"
+ },
+ {
+  "id": "5c00bf4454f99c1b",
+  "title": "MTPE logra acuerdos laborales en beneficio de 950 trabajadores del sector público y privado",
+  "date": "2026-10-18T20:00:14.000Z",
+  "category": "noticias",
+  "source": "TVPerú",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlZiZEFlX2hqQVYyR0JaWkRMT3kzSWQ3eDg4d3NFWDBSaUVOMHUxaGdUVWw2cWFRREtOMXg3bjBnanQzb19LTVR1djVseVRXUXVET1RjckFZY29hTjNjTEVUZ3JySnFkc3VqaHhFVmYyN1E2am5RU0I3ZExpbUhMMU5DUktpenB3VnQ2ZHhBWUJpVTF1dUFPTjROSnUxUlluYzlxWVNvZFNMeGotRGRxMnB6LXRHNWVwT1dLZ3NyZkFVYVpzUDlCa09DY3gzOWpf?oc=5",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
  },
  {
   "id": "bd84b22190ebd78e",
@@ -861,6 +1086,21 @@
   "status": "Vigente al publicarse"
  },
  {
+  "id": "f8312bc6fbba5237",
+  "title": "225-2026-SUNAFIL-GG-OAD",
+  "date": "2026-10-15T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "SUNAFIL",
+  "sourceId": "sunafil-normas",
+  "primary": true,
+  "summary": "Declarar improcedente la queja por defecto de tramitación formulada por el señor Juan Eric Anco Penadillo contra la Oficina de Administración de la Superintendencia Nacional de Fiscalización Laboral – SUNAFIL, por haberse producido la sustracción de la materia, por los fundamentos expuestos en la…",
+  "url": "https://www.gob.pe/institucion/sunafil/normas-legales/8734935-225-2026-sunafil-gg-oad",
+  "firstSeen": "2026-10-23T15:37:50.845Z",
+  "normType": "Norma",
+  "normNumber": "225-2026-SUNAFIL-GG-OAD",
+  "status": "Vigente al publicarse"
+ },
+ {
   "id": "3821958494a282fe",
   "title": "Murió Norberto Di Próspero, histórico secretario general del gremio de trabajadores del Congreso",
   "date": "2026-10-15T02:38:00.000Z",
@@ -1176,6 +1416,18 @@
   "firstSeen": "2026-10-14T15:41:52.771Z"
  },
  {
+  "id": "1d73ee311aecfd1e",
+  "title": "Suplemento Jurídica: Nueva RMV de S/ 1,230 modifica aportes y beneficios laborales en las empresas",
+  "date": "2026-10-13T07:00:00.000Z",
+  "category": "noticias",
+  "source": "El Peruano",
+  "sourceId": "elperuano-sst",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSjNWbWsxVS1DdjVndGE2TV9qd1FjMXdjYmNab0k5ZnIyd2hqYkdwVExGOS12d09PTDRHc2EtaFRYZVJQX0I2OTBETVFYTWl1ZFVTXzQzc09DUXcwalliZFlLdHhaaU90dXBiMnhxMXFxeGxzX1lramNXTjI2SHpoamluY2RQejNzR3FJamxBRVNuMExEMWp0VHRjMEk4N3dQMWhFckVqSjJleEVVTElILWtnbjk1cGtFWEU1R0xnUXZrOHpSdGhwZ1k0NA?oc=5",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
+ },
+ {
   "id": "4561b4e197d159bd",
   "title": "326-2026-TR",
   "date": "2026-10-13T05:00:00.000Z",
@@ -1225,6 +1477,18 @@
   "summary": "Consulte la fuente original para el detalle.",
   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa0JSN3M0Szl0V2hxNTJfVm81dFVJbE9BRkhTckJLa01zbWNnZ0VQZTlHeUlfeEZ2NGFGb19XTjRBRk1OSHExUlk3V2pMdHZkNmI4RGZoU0dKcEQtczVJT29SZHhJYmlONGYxMWhUOVIxd1c2b1VvVVUyYmVfQW5HM0F6SWxRZHgyVEowRk13YmNocy1xZ0h3OU83VG5IRmtHX2trOFlSUGJmWnB6bGI5QnRQSGIxdVI0RjFMMzRsaE8xMllSdVIzVkV2aDBtRUIyOTlNSW1xWUt0MVkyaXlGQkdxZw?oc=5",
   "firstSeen": "2026-10-13T11:12:00.268Z"
+ },
+ {
+  "id": "43ce481b7300e0ff",
+  "title": "Ley de trabajadoras del hogar: jornada laboral, gratificaciones y otros avances",
+  "date": "2026-10-12T23:14:41.000Z",
+  "category": "noticias",
+  "source": "elperuano.com.pe",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTWpNbG1ocENjZ29hXzdnaFJOT3Qzck9fbzZ2UUhkVmJRZkxzN3Y1Z2tGVzdRYzJvQUlCRG1fRUdkR2ZUUkNiT3lpN2g1VlJxdDRSclh3aGxOeElqbmtGSjhqVnJFWUNGcHpiN3lXclBZVzZOcjVVeUMwM3VvRWlEWU9hXzJiRmJoMFhiLTI2bFNXeDl5anVuZ0xBeGltaTlDRHo5WlJmUzFKRzMwZVNHaDlLczBZREpiRkJVT2djZEVfTUQyckF0TTJ4TQ?oc=5",
+  "firstSeen": "2026-10-23T15:37:50.845Z"
  },
  {
   "id": "7860900bc1ad6e9a",
