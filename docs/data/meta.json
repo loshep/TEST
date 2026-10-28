@@ -1,21 +1,21 @@
 {
- "lastUpdate": "2026-10-27T16:11:05.908Z",
- "added": 20,
- "total": 456,
+ "lastUpdate": "2026-10-28T16:57:48.131Z",
+ "added": 9,
+ "total": 465,
  "sources": [
   {
    "id": "mtpe-noticias",
    "name": "MTPE",
    "ok": true,
    "found": 25,
-   "added": 1
+   "added": 0
   },
   {
    "id": "mtpe-normas",
    "name": "MTPE",
    "ok": true,
    "found": 19,
-   "added": 5
+   "added": 3
   },
   {
    "id": "sunafil-noticias",
@@ -29,7 +29,7 @@
    "name": "SUNAFIL",
    "ok": true,
    "found": 25,
-   "added": 0
+   "added": 1
   },
   {
    "id": "sunat-noticias",
@@ -42,14 +42,14 @@
    "id": "elperuano-laboral",
    "name": "El Peruano",
    "ok": true,
-   "found": 48,
-   "added": 2
+   "found": 80,
+   "added": 1
   },
   {
    "id": "elperuano-sst",
    "name": "El Peruano",
    "ok": true,
-   "found": 62,
+   "found": 59,
    "added": 1
   },
   {
@@ -63,8 +63,8 @@
    "id": "prensa-laboral",
    "name": "Prensa (Google Noticias)",
    "ok": true,
-   "found": 63,
-   "added": 11
+   "found": 64,
+   "added": 3
   }
  ]
 }
