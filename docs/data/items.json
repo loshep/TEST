@@ -1,5 +1,53 @@
 [
  {
+  "id": "205b80c3780b1a2e",
+  "title": "Derecho al trabajo: Más de 24,000 personas accedieron a empleos formales con apoyo del MTPE",
+  "date": "2026-11-07T14:28:00.000Z",
+  "category": "noticias",
+  "source": "El Peruano",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2RDenY1cGdzWGNKckxsU25OTkFpSlRNYUkxOFJ1RUF1UEdTZ2RIYzZDSmh5WDZ4cUdEZlg3aHY0TlVCUmU0MExuZ2xOSjlObGVfR0Q5SDdObmpDQkg4NnhMR2NKZ1NjdHdfbkJNQTR3eDdDS0FCYlhablZtQlp6ZGh1dXdYYkVWTjhXOFhmZ2FzNkEyZ2RXM19EdUIzQUxmRjN3RUJGbldjYjgxdUtBWXd1YWdTUVNsUGQyazhQTk5kZkZOVWk3OQ?oc=5",
+  "firstSeen": "2026-11-07T16:43:57.723Z"
+ },
+ {
+  "id": "7f0c217f5cf5c057",
+  "title": "Más de 24 mil personas accedieron a empleos formales con apoyo del MTPE en los primeros 100 días del Gobierno",
+  "date": "2026-11-07T12:00:00.000Z",
+  "category": "noticias",
+  "source": "MTPE",
+  "sourceId": "mtpe-noticias",
+  "primary": true,
+  "summary": "El ministro Juan Sheput anunció el relanzamiento de CAPACÍTA-T en noviembre, en alianza con la Fundación Romero, para facilitar el acceso a 400 mil becas de capacitación.",
+  "url": "https://www.gob.pe/institucion/mtpe/noticias/1471041-mas-de-24-mil-personas-accedieron-a-empleos-formales-con-apoyo-del-mtpe-en-los-primeros-100-dias-del-gobierno",
+  "firstSeen": "2026-11-07T16:43:57.723Z"
+ },
+ {
+  "id": "53667b7835899bf2",
+  "title": "Crean la Mesa Regional de Trabajo para promover el cumplimiento de los derechos de las trabajadoras y trabajadores del hogar en la región Tumbes",
+  "date": "2026-11-07T08:07:56.000Z",
+  "category": "noticias",
+  "source": "El Peruano",
+  "sourceId": "elperuano-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RTndSdGFvaU5MbW10QWlkZVNQTVhSRlF6dEJJMmxSeTl2VU1nWW9ZWHdwaEdXYWtZSnZ4aWk5dnNnUFZZRmUxdS13eG5jRHVNRGZzY1paZENZQ0xuSVRMeGdjQ2VuZw?oc=5",
+  "firstSeen": "2026-11-07T16:43:57.723Z"
+ },
+ {
+  "id": "63f91183fa765736",
+  "title": "Ministro Juan Sheput anuncia trabajos para reducir riesgos ante El Niño y generar empleo temporal en SJL y Santa Eulalia",
+  "date": "2026-11-06T18:39:00.000Z",
+  "category": "noticias",
+  "source": "MTPE",
+  "sourceId": "mtpe-noticias",
+  "primary": true,
+  "summary": "- En San Juan de Lurigancho, el Ministerio de Trabajo y la municipalidad evaluaron mejoras en los accesos del sector Cantoral y el reforzamiento de la ladera junto a la losa deportiva de Mártires del Periodismo, que podría servir como punto de resguardo para los vecinos ante emergencias.",
+  "url": "https://www.gob.pe/institucion/mtpe/noticias/1470807-ministro-juan-sheput-anuncia-trabajos-para-reducir-riesgos-ante-el-nino-y-generar-empleo-temporal-en-sjl-y-santa-eulalia",
+  "firstSeen": "2026-11-07T16:43:57.723Z"
+ },
+ {
   "id": "3ac3ab54d22261e3",
   "title": "Papa León XIV en Perú: revisa las medidas laborales, sanitarias y de transporte por su visita",
   "date": "2026-11-06T15:00:00.000Z",
@@ -48,6 +96,21 @@
   "firstSeen": "2026-11-06T17:47:36.973Z"
  },
  {
+  "id": "b2a91c14d41cec11",
+  "title": "000425-2026-MTPE-4-12",
+  "date": "2026-11-06T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "MTPE",
+  "sourceId": "mtpe-normas",
+  "primary": true,
+  "summary": "OTORGAR la licencia sin goce de remuneraciones por motivos particulares, a favor de la señora DIANA CAROLINA PAUL FERNANDEZ, servidora comprendida en el régimen laboral especial del Decreto Legislativo N° 1057, por el periodo del 10 de noviembre de 2026 al 10 de febrero de 2027, por las razones…",
+  "url": "https://www.gob.pe/institucion/mtpe/normas-legales/8801172-000425-2026-mtpe-4-12",
+  "firstSeen": "2026-11-07T16:43:57.723Z",
+  "normType": "Norma",
+  "normNumber": "0425-2026-MTPE-4-12",
+  "status": "Vigente al publicarse"
+ },
+ {
   "id": "c3132abddc4ccb05",
   "title": "MEF ya no buscaría inconstitucionalidad de la Ley de gratificación y CTS para CAS",
   "date": "2026-11-05T21:29:00.000Z",
@@ -84,6 +147,18 @@
   "firstSeen": "2026-11-06T17:47:36.973Z"
  },
  {
+  "id": "7386d2ca33cd42a8",
+  "title": "Ministerio de Trabajo dispone hasta dos horas de tolerancia laboral por lluvias este jueves 5 de noviembre",
+  "date": "2026-11-05T11:19:00.000Z",
+  "category": "noticias",
+  "source": "Infobae",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2VkTV9BRk1yN3V2WFVMbkJMQ3NnZXh3Mmw4Qlo5cFpYZU50bGJqbUlfR2JHMjBnTUpwWlRWTDhQelNzQXFyNlBWWEUwWWF6dUxiTzlOX1g3dTlvWUc4OVNPZDNJZ1JiRGFtV1dNZzZTVW1lS0tGYkhPNjktTHZDUDFSbVEyRDRwWGRtWFNmaE1iOG9CR1dvYi1KS1ZOcHpFZHhwRklacGt4dFBaRHlXR0NBckZhLVJTS1ZSSkY3eFdiZktVRzRlNnZOWnI1Tnl2Tm51eDJGR25pOXQ1OExXSA?oc=5",
+  "firstSeen": "2026-11-07T16:43:57.723Z"
+ },
+ {
   "id": "3c48e0eae7ed91c4",
   "title": "Ordenanza que modifica la Ordenanza N° 434-MSI, que regula el ejercicio del comercio en vía pública en el distrito de San Isidro y el Anexo I que aprueba la tabla de infracciones y sanciones administrativas aprobada por Ordenanza N° 531-MSI",
   "date": "2026-11-05T09:23:43.000Z",
@@ -118,6 +193,21 @@
   "summary": "Consulte la fuente original para el detalle.",
   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnN1ZWlZa2hwUXdkV2UyemNXNHB3QzdrZ3hTd1hXcnpnZ3ctM1ZaMldIdUJLQ0xKck5QX3ZldUt5RjNwSlJLazlVQkctNTIxNWlKUm9Oc0gxQVdVSFNNWnEtNW1JT2RhSHFVdXVpVG1TNDhTejFUSkl1aUhQaktkMjJ4MEtQWkdfVy1sNGJhZm1aNVZwRzlwMlNhNjlENUNSWHg3dktrODRWU2t5Zk9NTXBqcTZ5MzBSdFVUOWFYWnZmQXlQOG9wRFM5WUxyeWtJbm9N?oc=5",
   "firstSeen": "2026-11-05T18:30:07.942Z"
+ },
+ {
+  "id": "09f7cf069df4c05f",
+  "title": "351-2026-TR",
+  "date": "2026-11-05T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "MTPE",
+  "sourceId": "mtpe-normas",
+  "primary": true,
+  "summary": "Se designa como representantes, titular y alterno, de la Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) ante la Comisión Multisectorial de naturaleza permanente como instancia de diálogo, coordinación y seguimiento de las acciones de prevención y sanción de la violencia en la…",
+  "url": "https://www.gob.pe/institucion/mtpe/normas-legales/8801114-351-2026-tr",
+  "firstSeen": "2026-11-07T16:43:57.723Z",
+  "normType": "Norma",
+  "normNumber": "351-2026-TR",
+  "status": "Vigente al publicarse"
  },
  {
   "id": "47359e72e044137d",
@@ -321,6 +411,51 @@
   "firstSeen": "2026-11-06T17:47:36.973Z",
   "normType": "Resolución Ministerial",
   "normNumber": "342-2026-TR",
+  "status": "Vigente al publicarse"
+ },
+ {
+  "id": "3e621893c44d48d0",
+  "title": "350-2026-TR",
+  "date": "2026-11-04T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "MTPE",
+  "sourceId": "mtpe-normas",
+  "primary": true,
+  "summary": "Autorizar la Transferencia Financiera de la Unidad Ejecutora 002: Programa Nacional de Empleo \"Jóvenes Productivos\", hasta por la suma de S/ 1 098 070,00 (UN MILLÓN NOVENTA Y OCHO MIL SETENTA Y 00/100 SOLES), que corresponde al 100% del monto total del financiamiento previsto en los Convenios de…",
+  "url": "https://www.gob.pe/institucion/mtpe/normas-legales/8801154-350-2026-tr",
+  "firstSeen": "2026-11-07T16:43:57.723Z",
+  "normType": "Norma",
+  "normNumber": "350-2026-TR",
+  "status": "Vigente al publicarse"
+ },
+ {
+  "id": "5aabea28e395ec4f",
+  "title": "349-2026-TR",
+  "date": "2026-11-04T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "MTPE",
+  "sourceId": "mtpe-normas",
+  "primary": true,
+  "summary": "Autorizar la segunda Transferencia Financiera de la Unidad Ejecutora 002: Programa Nacional de Empleo Juvenil \"Jóvenes Productivos\", hasta por la suma de S/ 43 888,00 (CUARENTA Y TRES MIL OCHOCIENTOS OCHENTA Y OCHO Y 00/100 SOLES), que corresponde al 20% del monto total del financiamiento del…",
+  "url": "https://www.gob.pe/institucion/mtpe/normas-legales/8801141-349-2026-tr",
+  "firstSeen": "2026-11-07T16:43:57.723Z",
+  "normType": "Norma",
+  "normNumber": "349-2026-TR",
+  "status": "Vigente al publicarse"
+ },
+ {
+  "id": "82f197b4ea45fe41",
+  "title": "345-2026-TR",
+  "date": "2026-11-04T05:00:00.000Z",
+  "category": "legislacion",
+  "source": "MTPE",
+  "sourceId": "mtpe-normas",
+  "primary": true,
+  "summary": "Dar por concluida la designación de la señora MARIA ESTHER MARTINEZ ESPINOZA, al cargo en el que fuera designada mediante Resolución Ministerial N° 277-2026-TR, dándosele las gracias por los servicios prestados.",
+  "url": "https://www.gob.pe/institucion/mtpe/normas-legales/8801125-345-2026-tr",
+  "firstSeen": "2026-11-07T16:43:57.723Z",
+  "normType": "Resolución Ministerial",
+  "normNumber": "345-2026-TR",
   "status": "Vigente al publicarse"
  },
  {
@@ -1795,6 +1930,18 @@
   "summary": "Con el objetivo de fortalecer las capacidades de empleadores y trabajadores en la gestión y prevención de riesgos laborales asociados al Fenómeno El Niño (FEN), la Superintendencia Nacional de Fiscalización Laboral (Sunafil) realizará jornadas técnicas regionales tituladas “Preparación y respuesta…",
   "url": "https://www.gob.pe/institucion/sunafil/noticias/1461966-sunafil-capacitara-a-empleadores-y-trabajadores-del-norte-del-pais-para-prevenir-riesgos-laborales-ante-el-fenomeno-el-nino",
   "firstSeen": "2026-10-25T14:46:43.477Z"
+ },
+ {
+  "id": "fb9b6514dbbc5fdb",
+  "title": "Revise las principales normas legales publicadas del 18 al 24 de Octubre del 2026",
+  "date": "2026-10-25T07:00:00.000Z",
+  "category": "noticias",
+  "source": "El Peruano",
+  "sourceId": "elperuano-sst",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXpVUHlDY1VjcHRuQ1hCXzBURW9kX0FvY05NNFZBN2YyUlR4NXJVZ0MwaG84YTVsdUdjYTByZTlVYzNQQVFyWmk3bk03cXhMSnJlX0tKTE9aZ1EzbmlrSmg2NHdXSm5RTi1CcDVXd29MbngzQVBCaW9VdTZidGpVckF3aVM1MDg3MkhGUU43ZXE2SDlsTEg0M3p2OXV0cVhwQTlJcGtiVGtZaUhOZEVVRXA2alF0Tmh4?oc=5",
+  "firstSeen": "2026-11-07T16:43:57.723Z"
  },
  {
   "id": "2a5ec007e619c5f3",
