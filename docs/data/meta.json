@@ -1,6 +1,6 @@
 {
- "lastUpdate": "2026-11-07T16:43:57.723Z",
- "added": 11,
+ "lastUpdate": "2026-11-08T16:55:11.209Z",
+ "added": 0,
  "total": 595,
  "sources": [
   {
@@ -8,14 +8,14 @@
    "name": "MTPE",
    "ok": true,
    "found": 25,
-   "added": 2
+   "added": 0
   },
   {
    "id": "mtpe-normas",
    "name": "MTPE",
    "ok": true,
    "found": 23,
-   "added": 5
+   "added": 0
   },
   {
    "id": "sunafil-noticias",
@@ -42,15 +42,15 @@
    "id": "elperuano-laboral",
    "name": "El Peruano",
    "ok": true,
-   "found": 61,
-   "added": 1
+   "found": 60,
+   "added": 0
   },
   {
    "id": "elperuano-sst",
    "name": "El Peruano",
    "ok": true,
-   "found": 46,
-   "added": 1
+   "found": 45,
+   "added": 0
   },
   {
    "id": "conasst",
@@ -64,7 +64,7 @@
    "name": "Prensa (Google Noticias)",
    "ok": true,
    "found": 29,
-   "added": 2
+   "added": 0
   }
  ]
 }
