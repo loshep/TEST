@@ -1,56 +1,61 @@
 {
- "lastUpdate": "2026-11-08T16:55:11.209Z",
- "added": 0,
- "total": 595,
+ "lastUpdate": "2026-11-09T21:16:39.166Z",
+ "added": 4,
+ "total": 599,
  "sources": [
   {
    "id": "mtpe-noticias",
    "name": "MTPE",
-   "ok": true,
-   "found": 25,
-   "added": 0
+   "ok": false,
+   "found": 0,
+   "added": 0,
+   "error": "fetch failed"
   },
   {
    "id": "mtpe-normas",
    "name": "MTPE",
-   "ok": true,
-   "found": 23,
-   "added": 0
+   "ok": false,
+   "found": 0,
+   "added": 0,
+   "error": "fetch failed"
   },
   {
    "id": "sunafil-noticias",
    "name": "SUNAFIL",
-   "ok": true,
-   "found": 25,
-   "added": 0
+   "ok": false,
+   "found": 0,
+   "added": 0,
+   "error": "fetch failed"
   },
   {
    "id": "sunafil-normas",
    "name": "SUNAFIL",
-   "ok": true,
-   "found": 25,
-   "added": 0
+   "ok": false,
+   "found": 0,
+   "added": 0,
+   "error": "fetch failed"
   },
   {
    "id": "sunat-noticias",
    "name": "SUNAT",
-   "ok": true,
-   "found": 25,
-   "added": 0
+   "ok": false,
+   "found": 0,
+   "added": 0,
+   "error": "fetch failed"
   },
   {
    "id": "elperuano-laboral",
    "name": "El Peruano",
    "ok": true,
-   "found": 60,
-   "added": 0
+   "found": 58,
+   "added": 1
   },
   {
    "id": "elperuano-sst",
    "name": "El Peruano",
    "ok": true,
-   "found": 45,
-   "added": 0
+   "found": 40,
+   "added": 1
   },
   {
    "id": "conasst",
@@ -63,8 +68,8 @@
    "id": "prensa-laboral",
    "name": "Prensa (Google Noticias)",
    "ok": true,
-   "found": 29,
-   "added": 0
+   "found": 28,
+   "added": 2
   }
  ]
 }
