@@ -1,7 +1,7 @@
 {
- "lastUpdate": "2026-11-16T20:47:53.235Z",
- "added": 1,
- "total": 674,
+ "lastUpdate": "2026-11-17T19:35:16.930Z",
+ "added": 7,
+ "total": 681,
  "sources": [
   {
    "id": "mtpe-noticias",
@@ -41,34 +41,30 @@
   {
    "id": "elperuano-laboral",
    "name": "El Peruano",
-   "ok": false,
-   "found": 0,
-   "added": 0,
-   "error": "HTTP 503"
+   "ok": true,
+   "found": 55,
+   "added": 1
   },
   {
    "id": "elperuano-sst",
    "name": "El Peruano",
-   "ok": false,
-   "found": 0,
-   "added": 0,
-   "error": "HTTP 503"
+   "ok": true,
+   "found": 39,
+   "added": 0
   },
   {
    "id": "conasst",
    "name": "Consejo Nacional de SST (CONASST)",
-   "ok": false,
-   "found": 0,
-   "added": 0,
-   "error": "HTTP 503"
+   "ok": true,
+   "found": 2,
+   "added": 0
   },
   {
    "id": "prensa-laboral",
    "name": "Prensa (Google Noticias)",
-   "ok": false,
-   "found": 0,
-   "added": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "found": 29,
+   "added": 5
   }
  ]
 }

@@ -1,5 +1,53 @@
 [
  {
+  "id": "402eccd4b04aef33",
+  "title": "Prohibirán el teletrabajo a tiempo completo a la mayoría de empleados en el Estado",
+  "date": "2026-11-17T16:48:00.000Z",
+  "category": "noticias",
+  "source": "Gestión",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYW5pOHdfN2M4WS1XOHpfQzNQM1hIMmxhc0ppNUNnXzRCMjBkcVEyVXNLNG13bGdiek1yNWRLYUw3VUxRMzdYdWNsMFFtOWpDWjBuX2VwYlNLQjRrWlBtTDFSdWhLdjJFWFBxNm9rdWtBNHozZDEyS3p6LWVqZzV4MmltVEZ3Qkp0aG1ZdXVVNHc1NVlNUDVRNklYX1hQQk44bWNJZHdNLWh0bV9Vd0hqejdkLUVuYS1GcUhmSTdEcXFhclJveldFZ3VET2VUb2ltdWJj?oc=5",
+  "firstSeen": "2026-11-17T19:35:16.930Z"
+ },
+ {
+  "id": "6220ce00b3d4141e",
+  "title": "Retiro de CTS hasta fines del 2028 se evaluará en la Comisión de Trabajo",
+  "date": "2026-11-17T15:55:00.000Z",
+  "category": "noticias",
+  "source": "Infobae",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmE1M0pwR3hYRXROQzV4NllmclRXa2RUa1k5OHB2aHZFLWhtR2YyS3dTcjJZUnFBU0R4d3dOTmhZWExOS3oxWDdnOVJ0NTRiOFVsbGtJdEZhUm5nMkMzd25HbzFfRWpMTGotTTZkRWFUWXYyU2FVX09RMmFNUnFYNHgwZnc3WENzRTk2ZXozTDdVVGdlSTdMNDRsdFFaSWJQUVpWeVZlUE1YWjRtTHktOUhHQdIBzgFBVV95cUxOMXU1Y1NoR1FidzVpUm5uOF9kdmpvazhiejR5OU1DeE16cTFZYmFBaUR5TTU3ZWlNaGYwdFFoVU44SkRZRmF3S1ZSNFk1WmZhaURtMndmUVFmTk5TSkRRTENOM19tRmhqcHQ3ZzAzd2doYVBzbzR1X2pCZHU0cjhnMDV6Sm5tdldLOUFUcVQ1QkEtWDhpNENjREZ0a3FmQnduUG5fRFpJUDVPb01RRE9TWnNfNDBqTGxEdWVTeXFKQ0YtZllmVjZucTJSTGtaUQ?oc=5",
+  "firstSeen": "2026-11-17T19:35:16.930Z"
+ },
+ {
+  "id": "212b7810a528c4b4",
+  "title": "Ministro Juan Sheput: \"ordenaremos el teletrabajo en el Estado para garantizar la atención al ciudadano\"",
+  "date": "2026-11-17T12:27:00.000Z",
+  "category": "noticias",
+  "source": "MTPE",
+  "sourceId": "mtpe-noticias",
+  "primary": true,
+  "summary": "* La propuesta busca precisar qué puestos pueden desempeñarse íntegramente a distancia y cuáles requieren presencia para asegurar la coordinación y la continuidad de los servicios públicos. * A octubre de 2026, tres de los diez sectores analizados superaban el 20% de personal en teletrabajo;",
+  "url": "https://www.gob.pe/institucion/mtpe/noticias/1474418-ministro-juan-sheput-ordenaremos-el-teletrabajo-en-el-estado-para-garantizar-la-atencion-al-ciudadano",
+  "firstSeen": "2026-11-17T19:35:16.930Z"
+ },
+ {
+  "id": "a8c1b585ac153e70",
+  "title": "El Niño: MTPE aprueba protocolo para gestionar riesgos en seguridad y salud en el trabajo",
+  "date": "2026-11-16T15:30:01.000Z",
+  "category": "sst",
+  "source": "lacamara.pe",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFNYOWZOTDBmeFhyYlRXeExLbDRBdGtYY2trUk1RMEtVYnA1UnJRQVlIREVmenhCOG1sNWhyejUwZExmUWVVV1NodnNCUDFSNUZtcEljQU5mT3hDdUhCTTYwMDhVclFyU0N0X2dCQzZ0UThiRDZuZEZPSDBINFZSV09lNjdWTHZsSEZ5QzZsLWc5cE5JYkxHb3pvMXFxMzZsaDJzdnhYZEhELVBkUHc?oc=5",
+  "firstSeen": "2026-11-17T19:35:16.930Z"
+ },
+ {
   "id": "b8d2135308f4d4f1",
   "title": "Ministerio de Trabajo ofrecerá más de 8 800 vacantes de empleo formal en cuatro regiones del 17 al 20 de noviembre",
   "date": "2026-11-16T12:48:00.000Z",
@@ -163,6 +211,18 @@
   "summary": "Consulte la fuente original para el detalle.",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5waUNWR1NwcURKazd0elVhMHd6WW45VkE1eUZaWDZ0NzhHODZEazVYZGZ5enZoN05PU01SalVhaU9XR2M1dU9MbG1sQTM1UG9zR0NQczhLYXphdXVwMWgtQlB3YnJEb2VaSEQtY1pnQmFDZw?oc=5",
   "firstSeen": "2026-11-15T17:32:56.013Z"
+ },
+ {
+  "id": "660b35c6dea53330",
+  "title": "¿Trabajas en el Estado? Conoce los cambios propuestos para regular el teletrabajo en el sector público",
+  "date": "2026-11-12T16:34:00.000Z",
+  "category": "noticias",
+  "source": "El Peruano",
+  "sourceId": "elperuano-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS19RMG8wRXpod3QzS25mODJKMzBmekd6T2R1Z0pOR1pWYkJUWnZFZDhEb1NRbjhzQlp2TnVna3NvQldieXdGWlozZTlLQnhXdkstbTA5akxxaU9vckJJZTAwanZPclR6TU1CRzNZV3d0RXlYS2NuX285R004VEs3aUxkZW9hdFZFYjJidF9mbG54QWYtdVdfZU1QZ0lHM0dJTzgwN0xJbjI4eXFTVkhUaXp1UV9pbjFVQ1JLQzZ6c1R6V3FNeW9JMnBkVjdHTTlmYWJnZEpGVQ?oc=5",
+  "firstSeen": "2026-11-17T19:35:16.930Z"
  },
  {
   "id": "fa2b381da8dbd474",
@@ -1009,6 +1069,30 @@
   "summary": "Consulte la fuente original para el detalle.",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqRTJwcVUwSThrT0dTUDUwbjRDRW1rVTlORTRRYkRYSVVubF9rVndiVmxPS2pySG8wOFM0aXZWT0gydk82SkE2ZzNoVTVuUDFlamxXY281Z0ZFV3FjbDFBdzN2Y2VYQQ?oc=5",
   "firstSeen": "2026-11-05T18:30:07.942Z"
+ },
+ {
+  "id": "857227406fd450e0",
+  "title": "¿Te afectaron las lluvias al ir al trabajo? Conoce la disposición del Ministerio de Trabajo",
+  "date": "2026-11-05T08:00:00.000Z",
+  "category": "noticias",
+  "source": "El Peruano",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaExUWXdydFVIVEdyVnFQUXkxRGxjS2VPR1J4NVRzTVd3bHpoZkpKN2pxa09nc1N5aGllU3BvOTAzcDloRWdCckF5REZtZG5haU5yaHhUc3Z6alE3RmFxcC1tQzViNVZlVkpOSGxhUnhucEZjSWVDRk8wc3R2cG4zaURveDdxT3ppQkQ0SUcxN08yVC1uSW9CdjNKc0pDdW9fZ2JQNUNYc1NvWUxiR3hsdFQxUHBrLWk5NTBjamxjZ09KUEpHTjMyYw?oc=5",
+  "firstSeen": "2026-11-17T19:35:16.930Z"
+ },
+ {
+  "id": "a4d6189fea6337ed",
+  "title": "¿Puede la Sunafil destacar a sus inspectores a los gobiernos regionales y al Ministerio de Trabajo? [Informe Técnico 000475-2026-Servir-DPGSC]",
+  "date": "2026-11-05T08:00:00.000Z",
+  "category": "noticias",
+  "source": "LP | Pasión por el Derecho",
+  "sourceId": "prensa-laboral",
+  "primary": false,
+  "summary": "Consulte la fuente original para el detalle.",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNGY1LXJCR3lVakZ3TjNUUVJrRzJfN3d4bXY0MnF4RDUyWjRsdjZva2oxRlRYYk1jcHh3OU9fZjJKLVNtbS1QaGpNelFKeWVuZjV1bVhUME9pcTNwb1d0enRhSkpNbklKYlp5d09OUmYwdnhrTmI1WmxpMDVibUkxeVNaYWV3WXJNNndGMm1wMDdjZUlHMTE3M0F0bGlvWFZLbUEzNFA3Q0otV1dLZE9iR3RlOEhYU29qbDRDMUg4RDZBbU93c2RjVnU2V3l6Q0tneTlrRnNtS2pLTXVVb0JZZkxkZjdxZGdrWTRMMlE3TFJMQQ?oc=5",
+  "firstSeen": "2026-11-17T19:35:16.930Z"
  },
  {
   "id": "c8ecfe8062957fb5",
